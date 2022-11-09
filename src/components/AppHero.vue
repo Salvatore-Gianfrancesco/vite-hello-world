@@ -1,3 +1,9 @@
+<script>
+export default {
+    name: "AppHero"
+}
+</script>
+
 <template>
     <div class="jumbotron jumbotron-fluid py-3">
         <div class="container text-center">
